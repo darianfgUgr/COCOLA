@@ -6,16 +6,8 @@ This repository provides two complementary pipelines for **concept-based annotat
 - **CoCoLa (Closed-Set Concept Labeling)** – strictly chooses one concept from a predefined hierarchical dictionary.  
 - **Open-CoCoLa (Open-Set Concept Labeling)** – free-form prediction → embedding → projection to the closest closed-set concept through **FAISS + embeddings**.
 
-Insert your pipeline images here:
-
-```md
 ![CoCoLa Pipeline](images_readme/cocola.png)
 ![Open-CoCoLa Pipeline](images_readme/open_cocola.png)
-```
-
-Ensure these images exist in the `images_readme/` directory.
-
----
 
 ## 📌 Method Overview
 
