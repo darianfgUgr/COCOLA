@@ -1,0 +1,16 @@
+{
+    "image_name": "000003",
+    "objects": [
+        {
+            "class": "Boat",
+            "class_id": 0,
+            "bbox": [
+                3,
+                106,
+                428,
+                296
+            ],
+            "parts": []
+        }
+    ]
+}

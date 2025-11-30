@@ -1,0 +1,69 @@
+{
+    "image_name": "000002",
+    "objects": [
+        {
+            "class": "Train",
+            "class_id": 0,
+            "bbox": [
+                45,
+                11,
+                498,
+                333
+            ],
+            "parts": [
+                {
+                    "class": "Coach",
+                    "bbox": [
+                        45,
+                        11,
+                        498,
+                        333
+                    ],
+                    "parts": []
+                }
+            ]
+        },
+        {
+            "class": "Person",
+            "class_id": 2,
+            "bbox": [
+                63,
+                188,
+                84,
+                242
+            ],
+            "parts": [
+                {
+                    "class": "Leg",
+                    "bbox": [
+                        74,
+                        216,
+                        83,
+                        242
+                    ],
+                    "parts": []
+                },
+                {
+                    "class": "Leg",
+                    "bbox": [
+                        66,
+                        216,
+                        73,
+                        233
+                    ],
+                    "parts": []
+                },
+                {
+                    "class": "Torso",
+                    "bbox": [
+                        70,
+                        188,
+                        82,
+                        212
+                    ],
+                    "parts": []
+                }
+            ]
+        }
+    ]
+}

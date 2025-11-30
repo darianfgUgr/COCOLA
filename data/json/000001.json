@@ -1,0 +1,27 @@
+{
+    "image_name": "000001",
+    "objects": [
+        {
+            "class": "Tvmonitor",
+            "class_id": 0,
+            "bbox": [
+                33,
+                11,
+                448,
+                296
+            ],
+            "parts": [
+                {
+                    "class": "Screen",
+                    "bbox": [
+                        64,
+                        29,
+                        423,
+                        235
+                    ],
+                    "parts": []
+                }
+            ]
+        }
+    ]
+}

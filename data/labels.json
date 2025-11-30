@@ -1,0 +1,147 @@
+{
+  "pottedplant": {
+    "plant": {},
+    "pot": {}
+  },
+  "cat": {
+    "ear": {},
+    "eye": {},
+    "head": {},
+    "leg": {},
+    "neck": {},
+    "tail": {},
+    "torso": {}
+  },
+  "dog": {
+    "ear": {},
+    "eye": {},
+    "head": {},
+    "leg": {},
+    "muzzle": {},
+    "neck": {},
+    "nose": {},
+    "tail": {},
+    "torso": {}
+  },
+  "aeroplane": {
+    "artifact_wing": {},
+    "body": {},
+    "engine": {},
+    "stern": {},
+    "wheel": {}
+  },
+  "person": {
+    "arm": {},
+    "ear": {},
+    "ebrow": {},
+    "eye": {},
+    "foot": {},
+    "hair": {},
+    "hand": {},
+    "head": {},
+    "leg": {},
+    "mouth": {},
+    "neck": {},
+    "nose": {},
+    "torso": {}
+  },
+  "train": {
+    "coach": {},
+    "headlight": {},
+    "locomotive": {}
+  },
+  "sheep": {
+    "ear": {},
+    "eye": {},
+    "head": {},
+    "horn": {},
+    "leg": {},
+    "muzzle": {},
+    "neck": {},
+    "tail": {},
+    "torso": {}
+  },
+  "bird": {
+    "animal_wing": {},
+    "beak": {},
+    "eye": {},
+    "head": {},
+    "leg": {},
+    "neck": {},
+    "tail": {},
+    "torso": {}
+  },
+  "motorbike": {
+    "handlebar": {},
+    "headlight": {},
+    "saddle": {},
+    "wheel": {}
+  },
+  "car": {
+    "bodywork": {},
+    "door": {},
+    "headlight": {},
+    "license_plate": {},
+    "mirror": {},
+    "wheel": {},
+    "window": {}
+  },
+  "bicycle": {
+    "chain_wheel": {},
+    "handlebar": {},
+    "headlight": {},
+    "saddle": {},
+    "wheel": {}
+  },
+  "tvmonitor": {
+    "screen": {},
+    "tvmonitor": {}
+  },
+  "bus": {
+    "bodywork": {},
+    "door": {},
+    "headlight": {},
+    "license_plate": {},
+    "mirror": {},
+    "wheel": {},
+    "window": {}
+  },
+  "horse": {
+    "ear": {},
+    "eye": {},
+    "head": {},
+    "hoof": {},
+    "leg": {},
+    "muzzle": {},
+    "neck": {},
+    "tail": {},
+    "torso": {}
+  },
+  "cow": {
+    "ear": {},
+    "eye": {},
+    "head": {},
+    "horn": {},
+    "leg": {},
+    "muzzle": {},
+    "neck": {},
+    "tail": {},
+    "torso": {}
+  },
+  "bottle": {
+    "body": {},
+    "cap": {}
+  },
+  "sofa": {
+    "sofa": {}
+  },
+  "boat": {
+    "boat": {}
+  },
+  "chair": {
+    "chair": {}
+  },
+  "diningtable": {
+    "diningtable": {}
+  }
+}
